@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 hello this is my file --change make in local
-=======
-hello this is my file--make checnge in subbranch
 
-Prafull
->>>>>>> prafullbranch
+hello this is my fie--make checnge in subbranch
+
+Prafll prafullbranch
+now reomte change
+merge
+>>>>>>> e27c3e3795f3d9c919edcae434f2969fea756251
